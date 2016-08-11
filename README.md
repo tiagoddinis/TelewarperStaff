@@ -3,10 +3,10 @@ An item mod that introduces the Telewarper Staff to the Don't Starve Together ga
 
 * _Moving a Base_
 
-    ![](https://giant.gfycat.com/BronzeCloudyEastsiberianlaika.gif)
+    ![](https://thumbs.gfycat.com/BronzeCloudyEastsiberianlaika-size_restricted.gif)
 
 * Fixing Construction
 
-    ![](https://giant.gfycat.com/InfantileGoldenBlackpanther.gif)
+    ![](https://thumbs.gfycat.com/InfantileGoldenBlackpanther-size_restricted.gif)
 
 To use this mod simply copy the repo contents to your _**Steam/steamapps/common/Don't Starve Together/mods**_ folder and start the game. Alternatively, subscribe the mod through the steam workshop [here](http://steamcommunity.com/sharedfiles/filedetails/?id=741466192).
