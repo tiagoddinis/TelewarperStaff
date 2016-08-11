@@ -1,0 +1,6 @@
+<Atlas>
+	<Texture filename="telewarper_staff.tex" />
+	<Elements>
+		<Element name="telewarper_staff.tex" u1="0.0078125" u2="0.9921875" v1="0.0078125" v2="0.9921875" />
+	</Elements>
+</Atlas>
